@@ -1,1 +1,2 @@
 Você envia uma resposta ao desenvolvedor, dizendo que não conseguiu reproduzir o bug.
+Tomara que ele continue sem aparecer!
